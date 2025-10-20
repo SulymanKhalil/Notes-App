@@ -1,5 +1,5 @@
-import AddNote from "./features/notes/addNote"
-import NotesList from "./features/notes/notesList"
+import AddNote from "./features/notes/AddNote"
+import NotesList from "./features/notes/NotesList"
 
 
 function App() {
